@@ -42,7 +42,7 @@
                                     </div>
                                     <!-- /Top Logo -->
                                     <!-- <h2 class='whitefont'>For Retailers</h2> -->
-                                    <a href="<?php get_site_url(); ?>/letslinc/for-retailers/" class="btn btn-1 img-btn">FOR RETAILERS</a>
+                                    <a href="<?php get_site_url(); ?>/business/" class="btn btn-1 img-btn">FOR RETAILERS</a>
                                                 </div>
                                           </div>
 
@@ -64,7 +64,7 @@
                                     <!-- /Top Logo -->
                                                        <!-- <h2 class='whitefont'>For Consumers</h2> -->
                                                        
-                                                       <a href="<?php get_site_url(); ?>/letslinc/for-customers/" class="btn btn-1 img-btn">FOR CONSUMERS</a>
+                                                       <a href="<?php get_site_url(); ?>/apps/" class="btn btn-1 img-btn">FOR CONSUMERS</a>
                                                 </div>
                                           </div>
                               </div>
